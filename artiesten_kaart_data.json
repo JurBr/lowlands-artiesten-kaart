@@ -450,24 +450,6 @@
     "lon": 4.9041
   },
   {
-    "artiest": "Yusu",
-    "genre": null,
-    "dag_tijden": "Zaterdag 16:30-18:30",
-    "podium": "Hacienda",
-    "land": null,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "artiest": "Disco In Danger",
-    "genre": null,
-    "dag_tijden": "Zaterdag 18:30-20:30",
-    "podium": "Hacienda",
-    "land": null,
-    "lat": null,
-    "lon": null
-  },
-  {
     "artiest": "Maan",
     "genre": "R&B",
     "dag_tijden": "Zondag 14:35-15:20",
@@ -493,15 +475,6 @@
     "land": "NL",
     "lat": 52.1326,
     "lon": 5.2913
-  },
-  {
-    "artiest": "Mama Africa Soundsystem",
-    "genre": "Afrohouse",
-    "dag_tijden": "Zaterdagnacht 01:00-03:00",
-    "podium": "Hacienda",
-    "land": null,
-    "lat": null,
-    "lon": null
   },
   {
     "artiest": "MAEY",
