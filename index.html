@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lowlands Artiestenkaart 2025</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha512-sA+z0pD4pTtM77VnDn5q9o+FwQ9M+MZ5F7qOoQJdz1EuVgwV4Aac3D+ePKcOaESlGZbjNMlfcZ8C9kS6v1yxgg=="
+    crossorigin=""
+  />
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f8f4e3; /* zandkleurig */
+    }
+    #map {
+      height: 100vh;
+      width: 100vw;
+    }
+    .leaflet-popup-content {
+      font-size: 0.9em;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha512-pG0aw8D9PjM2WfYFFzInYAnzZypGx4+KxKMp9T3et7u6RnPf1n5GZcP9iGVXU7P0p1TuQgnQRD0TLLD1gmk1xw=="
+    crossorigin=""
+  ></script>
+  <script>
+    const map = L.map("map").setView([20, 0], 2);
+
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; OpenStreetMap & CartoDB',
+    }).addTo(map);
+
+    fetch("artiesten_kaart_data.json")
+      .then((response) => response.json())
+      .then((data) => {
+        data.forEach((item) => {
+          const marker = L.marker([item.lat, item.lon]).addTo(map);
+          marker.bindPopup(
+            `<strong>${item.artiest}</strong><br/>
+            <em>${item.genre}</em><br/>
+            <b>${item.dag_tijden}</b><br/>
+            Podium: ${item.podium}<br/>
+            Land: ${item.land}`
+          );
+        });
+      });
+  </script>
+</body>
+</html>

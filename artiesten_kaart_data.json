@@ -1,0 +1,1415 @@
+[
+  {
+    "artiest": "Royel Otis",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 19:15-20:15",
+    "podium": "Bravo",
+    "land": "Australië",
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "artiest": "The Chats",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 18:00-19:00",
+    "podium": "India",
+    "land": "Australië",
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  {
+    "artiest": "DJ Tracksuit",
+    "genre": "Disco",
+    "dag_tijden": "Zaterdag 12:30-16:30",
+    "podium": "Hacienda",
+    "land": "België",
+    "lat": 50.5039,
+    "lon": 4.4699
+  },
+  {
+    "artiest": "Used",
+    "genre": "Drum&Bass",
+    "dag_tijden": "Zondagnacht 03:30-04:30",
+    "podium": "India",
+    "land": "België",
+    "lat": 50.5039,
+    "lon": 4.4699
+  },
+  {
+    "artiest": "Sylvie Kreusch",
+    "genre": "Indiepop",
+    "dag_tijden": "Zaterdag 13:15-14:15",
+    "podium": "Heineken",
+    "land": "België ",
+    "lat": 51.2194,
+    "lon": 4.4025
+  },
+  {
+    "artiest": "Jennifer Loveless",
+    "genre": "Hard Techno",
+    "dag_tijden": "Zaterdag 23:15-00:30",
+    "podium": "Bravo",
+    "land": "Canada",
+    "lat": 43.65107,
+    "lon": -79.347015
+  },
+  {
+    "artiest": "The Beaches",
+    "genre": "Garagerock",
+    "dag_tijden": "Zaterdag 17:15-18:15",
+    "podium": "Heineken",
+    "land": "Canada",
+    "lat": 43.65107,
+    "lon": -79.347015
+  },
+  {
+    "artiest": "Kurashi",
+    "genre": "Dancehall",
+    "dag_tijden": "Vrijdag 20:30-22:30",
+    "podium": "Hacienda",
+    "land": "Curacao",
+    "lat": 12.1696,
+    "lon": -68.99
+  },
+  {
+    "artiest": "Dj g2g",
+    "genre": "Dubstep",
+    "dag_tijden": "Vrijdagnacht 02:00-03:15",
+    "podium": "X-ray",
+    "land": "Denemarken",
+    "lat": 56.2639,
+    "lon": 9.5018
+  },
+  {
+    "artiest": "DJ HEARTSTRING",
+    "genre": "Hard Techno",
+    "dag_tijden": "Zondagnacht 00:30-02:00",
+    "podium": "Bravo",
+    "land": "Duitsland",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "artiest": "DJ Gigola",
+    "genre": "Hard Techno",
+    "dag_tijden": "Zondagnacht 02:00-03:30",
+    "podium": "Bravo",
+    "land": "Duitsland",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "artiest": "Odeal",
+    "genre": "R&B",
+    "dag_tijden": "Vrijdag 21:00-22:00",
+    "podium": "India",
+    "land": "Duitsland",
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  {
+    "artiest": "CEM b2b Pariah",
+    "genre": "Techno",
+    "dag_tijden": "Zaterdagnacht 02:45-04:45",
+    "podium": "X-ray",
+    "land": "Duitsland",
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  {
+    "artiest": "BASHKKA",
+    "genre": "Electro",
+    "dag_tijden": "Zondagnacht 01:00-03:00",
+    "podium": "X-ray",
+    "land": "Duitsland",
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  {
+    "artiest": "Roi Perez",
+    "genre": "Techno",
+    "dag_tijden": "Zondagnacht 03:00-04:45",
+    "podium": "X-ray",
+    "land": "Duitsland",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "artiest": "Sammy Virji",
+    "genre": "UK Garage",
+    "dag_tijden": "Vrijdagnacht 02:00-03:30",
+    "podium": "Bravo",
+    "land": "Engeland",
+    "lat": 52.3555,
+    "lon": -1.1743
+  },
+  {
+    "artiest": "Eivør",
+    "genre": "Folk",
+    "dag_tijden": "Zondag 22:00-23:00",
+    "podium": "India",
+    "land": "Faroër-eilandeb",
+    "lat": 62.0,
+    "lon": -6.9
+  },
+  {
+    "artiest": "Myd",
+    "genre": "House",
+    "dag_tijden": "Vrijdag 19:50-20:45",
+    "podium": "X-ray",
+    "land": "Frankrijk",
+    "lat": 46.6034,
+    "lon": 1.8883
+  },
+  {
+    "artiest": "Roland Cristal",
+    "genre": "Electro",
+    "dag_tijden": "Zondag 20:20-21:20",
+    "podium": "X-ray",
+    "land": "Frankrijk",
+    "lat": 46.6034,
+    "lon": 1.8883
+  },
+  {
+    "artiest": "SALOME",
+    "genre": "Electro",
+    "dag_tijden": "Zondagnacht 03:30-05:00",
+    "podium": "Bravo",
+    "land": "Georgië",
+    "lat": 41.7151,
+    "lon": 44.8271
+  },
+  {
+    "artiest": "Amaarae",
+    "genre": "Afropop",
+    "dag_tijden": "Vrijdag 17:00-18:00",
+    "podium": "Bravo",
+    "land": "Ghana",
+    "lat": 5.6037,
+    "lon": -0.187
+  },
+  {
+    "artiest": "Jembaa Groove",
+    "genre": "NuJazz",
+    "dag_tijden": "Zondag 19:45-20:45",
+    "podium": "Lima",
+    "land": "Ghana",
+    "lat": 5.6037,
+    "lon": -0.187
+  },
+  {
+    "artiest": "Fontaines D.C.",
+    "genre": "Indierock",
+    "dag_tijden": "Zondag 19:30-20:45",
+    "podium": "Alpha",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "Kingfishr",
+    "genre": "Folk",
+    "dag_tijden": "Vrijdag 15:00-16:00",
+    "podium": "Bravo",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "Saoirse",
+    "genre": "House",
+    "dag_tijden": "Vrijdag 23:00-00:30",
+    "podium": "Bravo",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "CMAT",
+    "genre": "Americana",
+    "dag_tijden": "Vrijdag 13:15-14:15",
+    "podium": "Heineken",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "Bambie Thug",
+    "genre": "Experimenteel",
+    "dag_tijden": "Vrijdag 19:00-22:00",
+    "podium": "India",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "Horace Andy & Band",
+    "genre": "Reggae",
+    "dag_tijden": "Zondag 12:30-13:30",
+    "podium": "India",
+    "land": "Jamaica",
+    "lat": 18.1096,
+    "lon": -77.2975
+  },
+  {
+    "artiest": "Himera",
+    "genre": "House",
+    "dag_tijden": "Vrijdag 23:00-01:00",
+    "podium": "X-ray",
+    "land": "Letland",
+    "lat": 56.9496,
+    "lon": 24.1052
+  },
+  {
+    "artiest": "Sonido Gallo Negro",
+    "genre": "Folk",
+    "dag_tijden": "Vrijdag 22:30-23:30",
+    "podium": "Lima",
+    "land": "Mexico",
+    "lat": 23.6345,
+    "lon": -102.5528
+  },
+  {
+    "artiest": "Zo! Gospel Choir",
+    "genre": "Folk",
+    "dag_tijden": "Zaterdag 14:00-15:00",
+    "podium": "Alpha",
+    "land": "Nederland",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Palo Santo Discos",
+    "genre": "Bossa Nova",
+    "dag_tijden": "Vrijdag 12:30-16:30",
+    "podium": "Hacienda",
+    "land": "Nederland",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Weval",
+    "genre": "Electro",
+    "dag_tijden": "Zaterdag 15:15-16:15",
+    "podium": "Heineken",
+    "land": "Nederland",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Sarah Julia",
+    "genre": "Singer-songwriter",
+    "dag_tijden": "Zondag 14:00-14:45",
+    "podium": "Lima",
+    "land": "Nederland",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Marathon",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 12:30-13:30",
+    "podium": "X-ray",
+    "land": "Nederland",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Oceanic & Greetje Bijma",
+    "genre": "Electro",
+    "dag_tijden": "Zondag 13:15-14:15",
+    "podium": "X-ray",
+    "land": "Nederland",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Doudou MD",
+    "genre": "Techno",
+    "dag_tijden": "Zondag 23:15-01:00",
+    "podium": "X-ray",
+    "land": "Nederland",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Balu Brigada",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 13:15-14:15 ",
+    "podium": "India",
+    "land": "Nieuw-Zeeland",
+    "lat": -40.9006,
+    "lon": 174.886
+  },
+  {
+    "artiest": "Obongjayar",
+    "genre": "Afropop",
+    "dag_tijden": "Vrijdag 15:15-16:15",
+    "podium": "Heineken",
+    "land": "Nigeria",
+    "lat": 9.082,
+    "lon": 8.6753
+  },
+  {
+    "artiest": "Goldkimono",
+    "genre": "Indiepop",
+    "dag_tijden": "Vrijdag 14:00-15:00",
+    "podium": "Alpha",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Frenna & The Gang",
+    "genre": "R&B",
+    "dag_tijden": "Vrijdag 16:00-17:00",
+    "podium": "Alpha",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Job Jobse & KI/KI",
+    "genre": "Techno",
+    "dag_tijden": "Vrijdag 22:30-23:30",
+    "podium": "Alpha",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Sef",
+    "genre": "HipHop",
+    "dag_tijden": "Zaterdag 16:00-17:00",
+    "podium": "Alpha",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Noord Nederlands Orkest",
+    "genre": "Orkest",
+    "dag_tijden": "Zondag 13:30-14:30",
+    "podium": "Alpha",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Mula B",
+    "genre": "HipHop",
+    "dag_tijden": "Vrijdag 19:15-20:15",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Interstellar Funk",
+    "genre": "Acid House",
+    "dag_tijden": "Vrijdagnacht 03:30-05:00",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Joep Beving & Residentie Orkest",
+    "genre": "Klassiek",
+    "dag_tijden": "Zaterdag 13:00-14:00",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Masalo (live)",
+    "genre": "Italo House",
+    "dag_tijden": "Zaterdagnacht 00:30-01:30",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "BSS",
+    "genre": "Techno",
+    "dag_tijden": "Zaterdagnacht 03:00-05:00",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Ploegendienst",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 12:30-13:15",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Yusu",
+    "genre": NaN,
+    "dag_tijden": "Zaterdag 16:30-18:30",
+    "podium": "Hacienda",
+    "land": NaN,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "artiest": "Disco In Danger",
+    "genre": NaN,
+    "dag_tijden": "Zaterdag 18:30-20:30",
+    "podium": "Hacienda",
+    "land": NaN,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "artiest": "Maan",
+    "genre": "R&B",
+    "dag_tijden": "Zondag 14:35-15:20",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "TWIENA",
+    "genre": "Hard Techno",
+    "dag_tijden": "Zondag 22:30-00:30",
+    "podium": "Bravo",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Mario Marini",
+    "genre": "Bossa Nova",
+    "dag_tijden": "Vrijdag 16:30-18:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Mama Africa Soundsystem",
+    "genre": "Afrohouse",
+    "dag_tijden": "Zaterdagnacht 01:00-03:00",
+    "podium": "Hacienda",
+    "land": NaN,
+    "lat": null,
+    "lon": null
+  },
+  {
+    "artiest": "MAEY",
+    "genre": "Electro",
+    "dag_tijden": "Vrijdag 18:30-20:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Jahwin B2B Rockefellababe",
+    "genre": "Dancehall",
+    "dag_tijden": "Vrijdag 22:30-01:00",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Tonno Disko",
+    "genre": "Disco",
+    "dag_tijden": "Vrijdagnacht 01:00-03:00",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Laura Meester",
+    "genre": "House",
+    "dag_tijden": "Vrijdagnacht 03:00-04:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "sim-oj",
+    "genre": "Jungle",
+    "dag_tijden": "Zaterdag 20:30-22:00",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Cincity",
+    "genre": "House",
+    "dag_tijden": "Zaterdag 23:30-01:00",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 51.9244,
+    "lon": 4.4777
+  },
+  {
+    "artiest": "Jolani Jhones",
+    "genre": "Jungle",
+    "dag_tijden": "Zaterdagnacht 03:00-04:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Kim Josefine B2B Lysah",
+    "genre": "House",
+    "dag_tijden": "Zondag 12:30-16:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "LASHANTI",
+    "genre": "Club",
+    "dag_tijden": "Zondag 16:30-18:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 51.9244,
+    "lon": 4.4777
+  },
+  {
+    "artiest": "Kingdom Sound",
+    "genre": "Dancehall",
+    "dag_tijden": "Zondag 18:30-20:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Styn",
+    "genre": "Dancehall",
+    "dag_tijden": "Zondag 20:30-22:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "The Flexican",
+    "genre": "Club",
+    "dag_tijden": "Zondagnacht 00:30-02:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Jarreau Vandal",
+    "genre": "Afrohouse",
+    "dag_tijden": "Zondagnacht 02:30-04:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Gotu Jim",
+    "genre": "Trap",
+    "dag_tijden": "Vrijdag 17:15-18:15",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Tramhaus",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 23:45-00:45",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 51.9244,
+    "lon": 4.4777
+  },
+  {
+    "artiest": "Future Festival Classics",
+    "genre": "Indiepop",
+    "dag_tijden": "Vrijdagnacht 00:45-03:00",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Chris Stussy presents Linger AV DJ set",
+    "genre": "House",
+    "dag_tijden": "Zaterdag 19:15-20:30",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Bokoesam",
+    "genre": "Afropop",
+    "dag_tijden": "Zaterdagnacht 00:00-00:45",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Wodan Boys",
+    "genre": "Rock",
+    "dag_tijden": "Vrijdag 13:30-14:30",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Tida Kamara",
+    "genre": "Dancehall",
+    "dag_tijden": "Vrijdag 22:30-00:30",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "CHAMOS",
+    "genre": "Dancehall",
+    "dag_tijden": "Vrijdagnacht 00:30-02:00",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "FS Green",
+    "genre": "Dancehall",
+    "dag_tijden": "Vrijdagnacht 03:15-04:30",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Charlie Avalon",
+    "genre": "Electro",
+    "dag_tijden": "Zaterdag 22:30-00:00",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Thys",
+    "genre": "Electro",
+    "dag_tijden": "Zondag 23:15-00:30",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Bnnyhunna",
+    "genre": "NuJazz",
+    "dag_tijden": "Vrijdag 18:20-19:20",
+    "podium": "Lima",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Iconic",
+    "genre": "Indiepop",
+    "dag_tijden": "Vrijdagnacht 00:00-03:00",
+    "podium": "Lima",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "YoungWoman",
+    "genre": "UK Garage",
+    "dag_tijden": "Vrijdagnacht 03:15-04:30",
+    "podium": "X-ray",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Jasmín b2b Sarkawt Hamad",
+    "genre": "Electro",
+    "dag_tijden": "Zaterdag 23:15-01:00",
+    "podium": "X-ray",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "LAMMER",
+    "genre": "Electro",
+    "dag_tijden": "Zaterdagnacht 03:00-04:30",
+    "podium": "X-ray",
+    "land": "NL",
+    "lat": 51.9244,
+    "lon": 4.4777
+  },
+  {
+    "artiest": "ROLROLROL",
+    "genre": "Electro",
+    "dag_tijden": "Zondag 18:30-19:30",
+    "podium": "X-ray",
+    "land": "NL",
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  {
+    "artiest": "Nooriyah",
+    "genre": "Club",
+    "dag_tijden": "Vrijdagnacht 02:00-03:15",
+    "podium": "India",
+    "land": "Saudi-Arabië",
+    "lat": 24.7136,
+    "lon": 46.6753
+  },
+  {
+    "artiest": "Soapbox",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 15:15-16:00",
+    "podium": "X-ray",
+    "land": "Schotland",
+    "lat": 56.4907,
+    "lon": -4.2026
+  },
+  {
+    "artiest": "Aptijt",
+    "genre": "Folk",
+    "dag_tijden": "Zondag 17:45-18:45",
+    "podium": "Lima",
+    "land": "Suriname",
+    "lat": 5.852,
+    "lon": -55.2038
+  },
+  {
+    "artiest": "DJ Travella",
+    "genre": "Afrohouse",
+    "dag_tijden": "Vrijdag 14:15-15:00",
+    "podium": "Lima",
+    "land": "Tanzania",
+    "lat": -6.369,
+    "lon": 34.8888
+  },
+  {
+    "artiest": "The Zawose Queens",
+    "genre": "Folk",
+    "dag_tijden": "Vrijdag 20:30-21:30",
+    "podium": "Lima",
+    "land": "Tanzania",
+    "lat": -6.369,
+    "lon": 34.8888
+  },
+  {
+    "artiest": "London Grammar",
+    "genre": "Indierock",
+    "dag_tijden": "Vrijdag 18:15-19:15",
+    "podium": "Alpha",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "RAYE",
+    "genre": "Soul",
+    "dag_tijden": "Zaterdag 20:15-21:30",
+    "podium": "Alpha",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Jamie xx",
+    "genre": "House",
+    "dag_tijden": "Zondag 21:45-23:00",
+    "podium": "Alpha",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Joy Orbison",
+    "genre": "Techno",
+    "dag_tijden": "Vrijdagnacht 00:30-02:00",
+    "podium": "Bravo",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Suki Waterhouse",
+    "genre": "Indiepop",
+    "dag_tijden": "Zaterdag 15:00-16:00",
+    "podium": "Bravo",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Lola Young",
+    "genre": "Indiepop",
+    "dag_tijden": "Zaterdag 18:30-19:30",
+    "podium": "Bravo",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "FKA twigs",
+    "genre": "R&B",
+    "dag_tijden": "Zaterdag 21:30-22:30",
+    "podium": "Bravo",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Chase & Status",
+    "genre": "Drum&Bass",
+    "dag_tijden": "Zondag 20:45-21:45",
+    "podium": "Bravo",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Saidah",
+    "genre": "UK Garage",
+    "dag_tijden": "Zondag 22:30-00:30",
+    "podium": "Hacienda",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Cat Burns",
+    "genre": "Indiepop",
+    "dag_tijden": "Vrijdag 19:30-20:30",
+    "podium": "Heineken",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Black Country, New Road",
+    "genre": "Britrock",
+    "dag_tijden": "Zondag 14:45-15:45",
+    "podium": "Heineken",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "DEADLETTER",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 15:20-16:20",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Warmduscher",
+    "genre": "Rock",
+    "dag_tijden": "Vrijdag 21:45-22:45",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Squid",
+    "genre": "Punk",
+    "dag_tijden": "Zaterdag 17:15-18:15",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Hamdi",
+    "genre": "Dubstep",
+    "dag_tijden": "Zondagnacht 00:30-02:00",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Luvcat",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 16:15-17:00",
+    "podium": "Lima",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Bartees Strange",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 12:30-13:15",
+    "podium": "Lima",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Antony Szmierek",
+    "genre": "HipHop",
+    "dag_tijden": "Zaterdag 20:30-21:15",
+    "podium": "Lima",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "4am Kru",
+    "genre": "Jungle",
+    "dag_tijden": "Vrijdag 16:25-17:10",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Unpeople",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 18:15-19:00",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Danny L Harle",
+    "genre": "Happy Hardcore",
+    "dag_tijden": "Vrijdagnacht 01:00-02:00",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Bassvictim",
+    "genre": "Electro",
+    "dag_tijden": "Zaterdag 16:55-17:45",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "bby",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 18:30-19:15",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Maruja",
+    "genre": "Punk",
+    "dag_tijden": "Zaterdag 20:10-21:00",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "ALT BLK ERA",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 22:00-23:00",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Queens of the Stone Age",
+    "genre": "Rock",
+    "dag_tijden": "Vrijdag 20:15-21:30",
+    "podium": "Alpha",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Vampire Weekend",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 18:15-19:15",
+    "podium": "Alpha",
+    "land": "US",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "artiest": "Chappell Roan",
+    "genre": "Indiepop",
+    "dag_tijden": "Zaterdag 22:30-23:30",
+    "podium": "Alpha",
+    "land": "US",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "artiest": "Marc Rebillet",
+    "genre": "Disco",
+    "dag_tijden": "Zondag 15:30-16:30",
+    "podium": "Alpha",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Khruangbin",
+    "genre": "Indierock",
+    "dag_tijden": "Zondag 17:30-18:30",
+    "podium": "Alpha",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Jalen Ngonda",
+    "genre": "Soul",
+    "dag_tijden": "Vrijdag 13:00-14:00",
+    "podium": "Bravo",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Montell Fish",
+    "genre": "R&B",
+    "dag_tijden": "Zaterdag 17:00-18:00",
+    "podium": "Bravo",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "The Blessed Madonna",
+    "genre": "House",
+    "dag_tijden": "Zaterdagnacht 01:30-03:00",
+    "podium": "Bravo",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Still Woozy",
+    "genre": "Indiepop",
+    "dag_tijden": "Zondag 16:30-17:30",
+    "podium": "Bravo",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Wallows",
+    "genre": "Indierock",
+    "dag_tijden": "Vrijdag 21:45-22:45",
+    "podium": "Heineken",
+    "land": "US",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "artiest": "Mk.gee",
+    "genre": "Indiepop",
+    "dag_tijden": "Zondag 20:45-21:45",
+    "podium": "Heineken",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "Spencer Sutherland",
+    "genre": "Indiepop",
+    "dag_tijden": "Vrijdag 17:10-18:10",
+    "podium": "India",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "LustSickPuppy",
+    "genre": "Experimenteel",
+    "dag_tijden": "Zaterdag 22:00-22:45",
+    "podium": "X-ray",
+    "land": "US",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "artiest": "Arca",
+    "genre": "Experimenteel",
+    "dag_tijden": "Vrijdag 21:30-22:30",
+    "podium": "Bravo",
+    "land": "Venezuela",
+    "lat": 6.4238,
+    "lon": -66.5897
+  },
+  {
+    "artiest": "Molchat Doma",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 18:45-19:45",
+    "podium": "Heineken",
+    "land": "Wit-Rusland",
+    "lat": 53.7098,
+    "lon": 27.9534
+  },
+  {
+    "artiest": "The Joy",
+    "genre": "Folk",
+    "dag_tijden": "Zaterdag 18:15-19:15",
+    "podium": "Lima",
+    "land": "Zuid-Afrika",
+    "lat": -30.5595,
+    "lon": 22.9375
+  },
+  {
+    "artiest": "Ecca Vandal",
+    "genre": "Punk",
+    "dag_tijden": "Zaterdag 15:15-16:05",
+    "podium": "X-ray",
+    "land": "Zuid-Afrika",
+    "lat": -30.5595,
+    "lon": 22.9375
+  },
+  {
+    "artiest": "Yukimi",
+    "genre": "NuJazz",
+    "dag_tijden": "zondag 12:00-13:00",
+    "podium": "Lima",
+    "land": "Zweden",
+    "lat": 60.1282,
+    "lon": 18.6435
+  },
+  {
+    "artiest": "Boko Yout",
+    "genre": "Punk",
+    "dag_tijden": "Vrijdag 14:30-15:15",
+    "podium": "X-ray",
+    "land": "Zweden",
+    "lat": 60.1282,
+    "lon": 18.6435
+  },
+  {
+    "artiest": "L'Eclair",
+    "genre": "Funk",
+    "dag_tijden": "Vrijdag 12:30-13:30",
+    "podium": "Lima",
+    "land": "Zwitserland",
+    "lat": 46.8182,
+    "lon": 8.2275
+  },
+  {
+    "artiest": "Passion Deez",
+    "genre": "Jungle",
+    "dag_tijden": "Zaterdag 22:00-23:30",
+    "podium": "Hacienda",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Papa Roach",
+    "genre": "Punk",
+    "dag_tijden": "Zaterdag 21:45-23:00",
+    "podium": "Heineken",
+    "land": "US",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "artiest": "horsegiirL",
+    "genre": "Happy Hardcore",
+    "dag_tijden": "Zondag 16:45-17:45",
+    "podium": "Heineken",
+    "land": "Duitsland",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "artiest": "Kybba, Tribal Kush en Nems (Basshall)",
+    "genre": "Dancehall",
+    "dag_tijden": "Zondag 23:00-03:00",
+    "podium": "Heineken",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Good Neighbours",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 15:15-16:15",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Nemzzz",
+    "genre": "Grime",
+    "dag_tijden": "Zaterdag 19:15-20:10",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "The Murder Capital",
+    "genre": "Rock",
+    "dag_tijden": "Zaterdag 21:00-22:00",
+    "podium": "India",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  },
+  {
+    "artiest": "The Dare",
+    "genre": "Indiepop",
+    "dag_tijden": "Zaterdagnacht 00:00-01:00",
+    "podium": "India",
+    "land": "US",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "artiest": "Not A Fan",
+    "genre": "Club",
+    "dag_tijden": "Zaterdagnacht 01:00-03:00",
+    "podium": "India",
+    "land": "NL",
+    "lat": 52.3676,
+    "lon": 4.9041
+  },
+  {
+    "artiest": "Kofi Stone",
+    "genre": "HipHop",
+    "dag_tijden": "Zondag 14:15-15:15",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "SOFIA ISELLA",
+    "genre": "Indiepop",
+    "dag_tijden": "Zondag 16:00-17:00",
+    "podium": "India",
+    "land": "US",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "artiest": "Sub Focus",
+    "genre": "Drum&Bass",
+    "dag_tijden": "Zondagnacht 02:00-03:30",
+    "podium": "India",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "Raúl Monsalve y Los Forajidos",
+    "genre": "Folk",
+    "dag_tijden": "Zaterdag 14:15-15:15",
+    "podium": "Lima",
+    "land": "Venezuela",
+    "lat": 6.4238,
+    "lon": -66.5897
+  },
+  {
+    "artiest": "LA LOM",
+    "genre": "Folk",
+    "dag_tijden": "Zaterdag 16:15-17-15",
+    "podium": "Lima",
+    "land": "US",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "artiest": "Dar Disku",
+    "genre": "Disco",
+    "dag_tijden": "Zaterdag 22:40-23:30",
+    "podium": "Lima",
+    "land": "Bahrein",
+    "lat": 26.0667,
+    "lon": 50.5577
+  },
+  {
+    "artiest": "LAIR",
+    "genre": "Indierock",
+    "dag_tijden": "Zondag 15:45-16:45",
+    "podium": "Lima",
+    "land": "Indonesië",
+    "lat": -0.7893,
+    "lon": 113.9213
+  },
+  {
+    "artiest": "Trolska Polska",
+    "genre": "Folk",
+    "dag_tijden": "Zondag 21:45-22:45",
+    "podium": "Lima",
+    "land": "Denemarken",
+    "lat": 56.2639,
+    "lon": 9.5018
+  },
+  {
+    "artiest": "Been Stellar",
+    "genre": "Indierock",
+    "dag_tijden": "Zaterdag 13:30-14:10",
+    "podium": "X-ray",
+    "land": "US",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "artiest": "Batu",
+    "genre": "Techno",
+    "dag_tijden": "Zaterdagnacht 01:00-02:45",
+    "podium": "X-ray",
+    "land": "UK",
+    "lat": 55.3781,
+    "lon": -3.436
+  },
+  {
+    "artiest": "EKKSTACY",
+    "genre": "Punk",
+    "dag_tijden": "Zondag 16:45-17:45",
+    "podium": "X-ray",
+    "land": "Canada",
+    "lat": 56.1304,
+    "lon": -106.3468
+  },
+  {
+    "artiest": "Rejjie Snow",
+    "genre": "HipHop",
+    "dag_tijden": "Zondag 20:00-21:00",
+    "podium": "India",
+    "land": "Ierland",
+    "lat": 53.4129,
+    "lon": -8.2439
+  }
+]
